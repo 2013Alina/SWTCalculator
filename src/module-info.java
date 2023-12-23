@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module SWTCalculator {
+	requires swt;
+}
